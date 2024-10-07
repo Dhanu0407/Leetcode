@@ -22,3 +22,28 @@ class Solution{
         return st.size();
     }
 }
+//Approach -II beats - 97.04%
+
+class Solution{
+    public int minLength(String s){
+char str[] = s.toCharArray();
+  int write = 0;
+
+        for(int read=0; read<s.length(); read++){
+         if(write==0){
+            str[write]=str[read];
+            write++;
+            continue;
+         }
+         if(str[read]=='B' && str[write-1]=='A'){
+            write--;
+         }else if(str[read]=='D' && str[write-1]=='C'){
+            write--;
+         }else{
+            str[write]=str[read];
+            write++;
+         }
+        }
+        return write;
+    }
+}
