@@ -10,12 +10,26 @@
 |  |
 | ------- |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Dhanu0407/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Dhanu0407/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 ## Depth-First Search
 |  |
 | ------- |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Dhanu0407/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Dhanu0407/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 ## Trie
 |  |
 | ------- |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Dhanu0407/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+## Tree
+|  |
+| ------- |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Dhanu0407/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Dhanu0407/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
+## Binary Tree
+|  |
+| ------- |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Dhanu0407/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 <!---LeetCode Topics End-->
