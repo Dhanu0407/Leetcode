@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Dhanu0407/Leetcode/tree/master/0008-string-to-integer-atoi) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/Dhanu0407/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Dhanu0407/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Array
 |  |
