@@ -75,4 +75,8 @@
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/Dhanu0407/Leetcode/tree/master/0812-rotate-string) |
+## Database
+|  |
+| ------- |
+| [1811-fix-names-in-a-table](https://github.com/Dhanu0407/Leetcode/tree/master/1811-fix-names-in-a-table) |
 <!---LeetCode Topics End-->
