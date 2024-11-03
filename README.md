@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Dhanu0407/Leetcode/tree/master/0008-string-to-integer-atoi) |
+| [0812-rotate-string](https://github.com/Dhanu0407/Leetcode/tree/master/0812-rotate-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Dhanu0407/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Dhanu0407/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2580-circular-sentence](https://github.com/Dhanu0407/Leetcode/tree/master/2580-circular-sentence) |
@@ -70,4 +71,8 @@
 |  |
 | ------- |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Dhanu0407/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/Dhanu0407/Leetcode/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
