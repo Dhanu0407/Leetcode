@@ -24,6 +24,7 @@
 | [2586-longest-square-streak-in-an-array](https://github.com/Dhanu0407/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Dhanu0407/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Dhanu0407/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Dhanu0407/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -92,6 +93,7 @@
 | [1940-maximum-xor-for-each-query](https://github.com/Dhanu0407/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Dhanu0407/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Dhanu0407/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Dhanu0407/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/Dhanu0407/Leetcode/tree/master/3394-minimum-array-end) |
 ## Counting
 |  |
@@ -101,4 +103,8 @@
 |  |
 | ------- |
 | [1940-maximum-xor-for-each-query](https://github.com/Dhanu0407/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
+## Sliding Window
+|  |
+| ------- |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Dhanu0407/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 <!---LeetCode Topics End-->
