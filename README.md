@@ -185,4 +185,8 @@
 |  |
 | ------- |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Dhanu0407/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
+## Graph
+|  |
+| ------- |
+| [3189-find-champion-ii](https://github.com/Dhanu0407/Leetcode/tree/master/3189-find-champion-ii) |
 <!---LeetCode Topics End-->
