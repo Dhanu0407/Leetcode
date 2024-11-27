@@ -39,6 +39,7 @@
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Dhanu0407/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Dhanu0407/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Dhanu0407/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Dhanu0407/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Dhanu0407/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Depth-First Search
 |  |
@@ -58,6 +59,7 @@
 | ------- |
 | [0787-sliding-puzzle](https://github.com/Dhanu0407/Leetcode/tree/master/0787-sliding-puzzle) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Dhanu0407/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Dhanu0407/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Binary Tree
 |  |
 | ------- |
@@ -189,4 +191,5 @@
 |  |
 | ------- |
 | [3189-find-champion-ii](https://github.com/Dhanu0407/Leetcode/tree/master/3189-find-champion-ii) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Dhanu0407/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 <!---LeetCode Topics End-->
