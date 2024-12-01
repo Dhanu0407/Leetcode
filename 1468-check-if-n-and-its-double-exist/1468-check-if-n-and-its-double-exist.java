@@ -1,13 +1,17 @@
-
 class Solution {
     public boolean checkIfExist(int[] arr) {
-        HashSet<Integer> seen = new HashSet<>();
-        for (int num : arr) {
-            if (seen.contains(2 * num) || (num % 2 == 0 && seen.contains(num / 2))) {
-                return true;
+        int n = arr.length;
+
+        // Iterate over each pair (i, j)
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < n; j++) {
+                // If i != j and arr[i] is 2 times arr[j]
+                if (i != j && arr[i] == 2 * arr[j]) {
+                    return true;
+                }
             }
-            seen.add(num);
         }
+
         return false;
     }
 }
