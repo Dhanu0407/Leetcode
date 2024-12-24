@@ -72,6 +72,7 @@
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Dhanu0407/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Dhanu0407/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/Dhanu0407/Leetcode/tree/master/3058-maximum-number-of-k-divisible-components) |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Dhanu0407/Leetcode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Trie
 |  |
 | ------- |
@@ -83,6 +84,7 @@
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Dhanu0407/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Dhanu0407/Leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/Dhanu0407/Leetcode/tree/master/3058-maximum-number-of-k-divisible-components) |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Dhanu0407/Leetcode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -92,6 +94,7 @@
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Dhanu0407/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Dhanu0407/Leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Dhanu0407/Leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Dhanu0407/Leetcode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Dhanu0407/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Binary Tree
 |  |
@@ -290,6 +293,7 @@
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Dhanu0407/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Dhanu0407/Leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3189-find-champion-ii](https://github.com/Dhanu0407/Leetcode/tree/master/3189-find-champion-ii) |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Dhanu0407/Leetcode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Dhanu0407/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Shortest Path
 |  |
