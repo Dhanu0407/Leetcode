@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Dhanu0407/Leetcode/tree/master/0008-string-to-integer-atoi) |
+| [0768-partition-labels](https://github.com/Dhanu0407/Leetcode/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/Dhanu0407/Leetcode/tree/master/0812-rotate-string) |
 | [0952-word-subsets](https://github.com/Dhanu0407/Leetcode/tree/master/0952-word-subsets) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Dhanu0407/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -269,6 +270,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0768-partition-labels](https://github.com/Dhanu0407/Leetcode/tree/master/0768-partition-labels) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Dhanu0407/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Dhanu0407/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/Dhanu0407/Leetcode/tree/master/0952-word-subsets) |
@@ -352,6 +354,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0768-partition-labels](https://github.com/Dhanu0407/Leetcode/tree/master/0768-partition-labels) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Dhanu0407/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1502-construct-k-palindrome-strings](https://github.com/Dhanu0407/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Dhanu0407/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -467,6 +470,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0768-partition-labels](https://github.com/Dhanu0407/Leetcode/tree/master/0768-partition-labels) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Dhanu0407/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Dhanu0407/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Dhanu0407/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
