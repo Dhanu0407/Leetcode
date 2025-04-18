@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Dhanu0407/Leetcode/tree/master/0008-string-to-integer-atoi) |
+| [0038-count-and-say](https://github.com/Dhanu0407/Leetcode/tree/master/0038-count-and-say) |
 | [0768-partition-labels](https://github.com/Dhanu0407/Leetcode/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/Dhanu0407/Leetcode/tree/master/0812-rotate-string) |
 | [0952-word-subsets](https://github.com/Dhanu0407/Leetcode/tree/master/0952-word-subsets) |
