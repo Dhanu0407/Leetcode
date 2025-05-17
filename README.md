@@ -54,6 +54,7 @@
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Dhanu0407/Leetcode/tree/master/0075-sort-colors) |
 | [0407-trapping-rain-water-ii](https://github.com/Dhanu0407/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Dhanu0407/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Dhanu0407/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -400,6 +401,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Dhanu0407/Leetcode/tree/master/0075-sort-colors) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Dhanu0407/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Dhanu0407/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Dhanu0407/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -570,6 +572,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Dhanu0407/Leetcode/tree/master/0075-sort-colors) |
 | [0768-partition-labels](https://github.com/Dhanu0407/Leetcode/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/Dhanu0407/Leetcode/tree/master/0868-push-dominoes) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Dhanu0407/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
