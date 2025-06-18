@@ -183,6 +183,7 @@
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Dhanu0407/Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Dhanu0407/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/Dhanu0407/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/Dhanu0407/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Dhanu0407/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Dhanu0407/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3321-type-of-triangle](https://github.com/Dhanu0407/Leetcode/tree/master/3321-type-of-triangle) |
@@ -464,6 +465,7 @@
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Dhanu0407/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Dhanu0407/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Dhanu0407/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/Dhanu0407/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Dhanu0407/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3321-type-of-triangle](https://github.com/Dhanu0407/Leetcode/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/Dhanu0407/Leetcode/tree/master/3430-count-days-without-meetings) |
@@ -495,6 +497,7 @@
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Dhanu0407/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Dhanu0407/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Dhanu0407/Leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/Dhanu0407/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Dhanu0407/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3647-zero-array-transformation-iii](https://github.com/Dhanu0407/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 ## String Matching
