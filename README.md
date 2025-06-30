@@ -71,6 +71,7 @@
 | [0135-candy](https://github.com/Dhanu0407/Leetcode/tree/master/0135-candy) |
 | [0407-trapping-rain-water-ii](https://github.com/Dhanu0407/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Dhanu0407/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0594-longest-harmonious-subsequence](https://github.com/Dhanu0407/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Dhanu0407/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Dhanu0407/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/Dhanu0407/Leetcode/tree/master/0787-sliding-puzzle) |
@@ -370,6 +371,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Dhanu0407/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0594-longest-harmonious-subsequence](https://github.com/Dhanu0407/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0768-partition-labels](https://github.com/Dhanu0407/Leetcode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Dhanu0407/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Dhanu0407/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -457,6 +459,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Dhanu0407/Leetcode/tree/master/0075-sort-colors) |
+| [0594-longest-harmonious-subsequence](https://github.com/Dhanu0407/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Dhanu0407/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Dhanu0407/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Dhanu0407/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -547,6 +550,7 @@
 ## Counting
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/Dhanu0407/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1160-letter-tile-possibilities](https://github.com/Dhanu0407/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Dhanu0407/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/Dhanu0407/Leetcode/tree/master/1364-tuple-with-same-product) |
@@ -593,6 +597,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/Dhanu0407/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Dhanu0407/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Dhanu0407/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1755-defuse-the-bomb](https://github.com/Dhanu0407/Leetcode/tree/master/1755-defuse-the-bomb) |
