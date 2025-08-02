@@ -72,6 +72,7 @@
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Dhanu0407/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Dhanu0407/Leetcode/tree/master/0075-sort-colors) |
+| [0118-pascals-triangle](https://github.com/Dhanu0407/Leetcode/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/Dhanu0407/Leetcode/tree/master/0135-candy) |
 | [0407-trapping-rain-water-ii](https://github.com/Dhanu0407/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Dhanu0407/Leetcode/tree/master/0416-partition-equal-subset-sum) |
@@ -341,6 +342,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/Dhanu0407/Leetcode/tree/master/0118-pascals-triangle) |
 | [0416-partition-equal-subset-sum](https://github.com/Dhanu0407/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Dhanu0407/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0806-domino-and-tromino-tiling](https://github.com/Dhanu0407/Leetcode/tree/master/0806-domino-and-tromino-tiling) |
