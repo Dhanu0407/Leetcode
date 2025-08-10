@@ -604,6 +604,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Dhanu0407/Leetcode/tree/master/0231-power-of-two) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Dhanu0407/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1940-maximum-xor-for-each-query](https://github.com/Dhanu0407/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Dhanu0407/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -710,6 +711,7 @@
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Dhanu0407/Leetcode/tree/master/0231-power-of-two) |
 | [0797-rabbits-in-forest](https://github.com/Dhanu0407/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/Dhanu0407/Leetcode/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/Dhanu0407/Leetcode/tree/master/0900-reordered-power-of-2) |
@@ -1007,6 +1009,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Dhanu0407/Leetcode/tree/master/0231-power-of-two) |
 | [2050-count-good-numbers](https://github.com/Dhanu0407/Leetcode/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Dhanu0407/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Dhanu0407/Leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
